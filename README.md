@@ -20,7 +20,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of files required to install a fuctioning osTicketing system</h2>
+<h2>List of files required to install a functioning osTicketing system</h2>
 
 - PHPManagerForIIS_V1.5.0.msi
 - rewrite_amd64_en-US.msi
